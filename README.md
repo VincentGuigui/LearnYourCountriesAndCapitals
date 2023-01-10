@@ -8,9 +8,10 @@ This program will generate 3 images for each known country
 
 This is useful to use in a slideshow app in order to  progressively display the country, its name and its capital city.
 
-![Country](docs/Sri Lanka_1.png)
-![Country with name](docs/Sri Lanka_2_name.png)
-![Country with capital city](docs/Sri Lanka_3_capital.png)
+![Country](docs/Sri Lanka_1.png?raw=true)
+![Country with name](docs/Sri Lanka_2_name.png?raw=true)
+![Country with capital city](docs/Sri Lanka_3_capital.png?raw=true)
+
 # Install
 ```pip install -r requirements.txt```
 
