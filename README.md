@@ -18,7 +18,7 @@ This is useful to use in a slideshow app in order to  progressively display the 
 # Initiate cards generation
 ```LearnYourCountriesAndCapitals.py```
 
-Wait ~5 minutes for the almost 800 images to be generated in ```cards``` directory
+Wait ~5 minutes for the almost 800 images to be generated in ```geocards``` directory
 
 # Internal processes
 The program uses [Natural Earth](https://www.naturalearthdata.com/) Geo data (like countries borders and cities.

@@ -7,7 +7,7 @@ import rasterio
 from rasterio.plot import show as rioshow
 from shapely.geometry import box
 
-folder = "cards"
+folder = "geocards"
 plt.rcParams['figure.figsize'] = [10,10]
 fig, ax = plt.subplots()
 ax.set_aspect('equal')
